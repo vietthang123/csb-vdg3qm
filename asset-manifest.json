@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vietthang123.github.io/csb-vdg3qm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vietthang123.github.io/csb-vdg3qm/static/js/main.3a013fc2.chunk.js",
+    "main.js.map": "https://vietthang123.github.io/csb-vdg3qm/static/js/main.3a013fc2.chunk.js.map",
+    "runtime-main.js": "https://vietthang123.github.io/csb-vdg3qm/static/js/runtime-main.c4a6b1a7.js",
+    "runtime-main.js.map": "https://vietthang123.github.io/csb-vdg3qm/static/js/runtime-main.c4a6b1a7.js.map",
+    "static/js/2.cc863786.chunk.js": "https://vietthang123.github.io/csb-vdg3qm/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://vietthang123.github.io/csb-vdg3qm/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://vietthang123.github.io/csb-vdg3qm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vietthang123.github.io/csb-vdg3qm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://vietthang123.github.io/csb-vdg3qm/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a6b1a7.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.3a013fc2.chunk.js"
+  ]
+}
